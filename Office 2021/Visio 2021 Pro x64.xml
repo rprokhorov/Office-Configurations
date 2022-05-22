@@ -1,7 +1,7 @@
 <Configuration>
   <Info Description="" />
   <Add OfficeClientEdition="64" Channel="PerpetualVL2021">
-    <Product ID="VisioPro2021Volume" PIDKEY="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX">
+    <Product ID="VisioPro2021Volume" PIDKEY="KNH8D-FGHT4-T8RK3-CTDYJ-K2HT4">
       <Language ID="en-us" />
     </Product>
     <Product ID="LanguagePack">

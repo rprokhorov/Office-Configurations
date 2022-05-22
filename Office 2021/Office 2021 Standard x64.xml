@@ -1,15 +1,12 @@
 <Configuration>
   <Info Description="" />
   <Add OfficeClientEdition="64" Channel="PerpetualVL2021">
-    <Product ID="ProPlus2021Volume" PIDKEY="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX">
+    <Product ID="Standard2021Volume" PIDKEY="KDX7X-BNVR8-TXXGX-4Q7Y8-78VT3">
       <Language ID="en-us" />
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="Groove" />
       <ExcludeApp ID="OneDrive" />
       <ExcludeApp ID="Publisher" />     
-    </Product>
-    <Product ID="VisioPro2021Volume" PIDKEY="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX">
-      <Language ID="en-us" />
     </Product>
     <Product ID="LanguagePack">
       <Language ID="en-us" />
