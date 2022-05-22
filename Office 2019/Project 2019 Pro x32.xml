@@ -1,14 +1,7 @@
 <Configuration>
   <Info Description="" />
   <Add OfficeClientEdition="32" Channel="PerpetualVL2019">
-    <Product ID="ProPlus2019Volume" PIDKEY="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX">
-      <Language ID="en-us" />
-      <ExcludeApp ID="Access" />
-      <ExcludeApp ID="Groove" />
-      <ExcludeApp ID="OneDrive" />
-      <ExcludeApp ID="Publisher" />     
-    </Product>
-    <Product ID="ProjectPro2019Volume" PIDKEY="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX">
+    <Product ID="ProjectPro2019Volume" PIDKEY="B4NPR-3FKK7-T2MBV-FRQ4W-PKD2B">
       <Language ID="en-us" />
     </Product>
     <Product ID="LanguagePack">
