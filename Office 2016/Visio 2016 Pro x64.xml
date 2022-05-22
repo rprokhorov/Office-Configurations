@@ -1,0 +1,30 @@
+<Configuration>
+  <Info Description="" />
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2021">
+    <Product ID="VisioProXVolume" PIDKEY="69WXN-MBYV6-22PQG-3WGHK-RM6XC">
+      <Language ID="en-us" />
+    </Product>
+    <Product ID="LanguagePack">
+      <Language ID="en-us" />
+    </Product>
+    <Product ID="ProofingTools">
+      <Language ID="ru-ru" />
+      <Language ID="en-us" />
+      <Language ID="it-it" />
+      <Language ID="de-de" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="PinIconsToTaskbar" Value="TRUE" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Updates Enabled="TRUE" />
+  <RemoveMSI />
+  <AppSettings>
+    <Setup Name="Company" Value="Contoso" />
+  </AppSettings>
+  <Display Level="Full" AcceptEULA="TRUE" />
+  <Logging Level="Standard" Path="C:\Windows\Logs\Software" />
+</Configuration>
